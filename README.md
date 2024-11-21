@@ -1,16 +1,28 @@
-## Hi there 👋
+## Front-End Developer 🚀
 
-<!--
-**Patel-Meghal/Patel-Meghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi,✋ I'm Meghal Patel a passionate Front-End Developer with a knack for crafting beautiful and interactive websites.
 
-Here are some ideas to get you started:
+#### I combine my design sensibilities with strong coding skills to bring user-centric experiences to life. I'm proficient in the core web development technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS (including preprocessors like SASS or LESS)
+- JavaScript (including frameworks like React, Vue.js, or Angular)
+- Accessibility best practices (WCAG)
+- Version control (Git)
+- Responsive design principles
+- Web performance optimization 
+
+#### Projects
+
+- Explore some of my projects in this repository!
+- If you'd like to see my portfolio website, you can visit.
+  
+#### Let's Connect!
+- I'm always eager to collaborate on new projects.
+
+  
+### Feel free to reach out to me via:
+
+#### Email: patelmeghal2002@gmail.com
+
+### Looking forward to hearing from you!
